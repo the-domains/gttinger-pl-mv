@@ -18,8 +18,8 @@ app_links: []
 isBasedOnUrl: >-
   http://szinhaz.hu/szinhazi-hirek/66294-dorner-gyorgy-vezetheti-tovabb-az-ujszinhazat
 title: Dörner György vezetheti tovább az Újszínházat
-datePublished: '2016-09-02T09:43:45.186Z'
-dateModified: '2016-09-02T09:43:44.774Z'
+datePublished: '2016-09-02T09:43:46.714Z'
+dateModified: '2016-09-02T09:43:46.425Z'
 via: {}
 sourcePath: _posts/2016-09-02-dorner-gyorgy-vezetheti-tovabb-az-ujszinhazat.md
 starred: false
