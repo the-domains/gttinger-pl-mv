@@ -22,11 +22,11 @@ isBasedOnUrl: >-
 title: >-
   "Szakmai becsületből írtuk meg" - Elérhető Bodó Viktor pályázata az
   Újszínházért
-datePublished: '2016-09-02T09:40:58.903Z'
-dateModified: '2016-09-02T09:40:53.377Z'
+datePublished: '2016-09-02T09:43:46.715Z'
+dateModified: '2016-09-02T09:43:46.425Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-szakmai-becsuletbol-irtuk-meg-elerheto-bodo-viktor-palya.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
