@@ -1,47 +1,32 @@
-layout_spectrum: 0.9827703388873488
-typography_spectrum: 0.34890221804380417
-color:
-  saturation: 0.5905968032311648
-  brandStrength: 0.7969562849029899
-  rhythmicContrast: 0.398665152490139
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  lightness: 0.12781469873152673
-name: Göttinger Pál m.v.
-navigation:
-  - name: web
-    url: 'http://www.gottingerpal.com'
-    type: external
-  - name: facebook
-    url: 'https://www.facebook.com/gottingerpalmv/'
-    type: external
-  - name: twitter
-    url: 'https://twitter.com/deltenger'
-    type: external
-  - name: google+
-    url: 'https://plus.google.com/+G%C3%B6ttingerP%C3%A1lmv'
-    type: external
-  - name: linkedin
-    url: 'https://hu.linkedin.com/in/p%C3%A1l-g%C3%B6ttinger-0694a84'
-    type: external
-  - name: flickr
-    url: 'https://www.flickr.com/photos/gottingerpal/'
-    type: external
+title: Más olvasnivaló
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Más olvasnivaló
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.8288393507245928
+  brandStrength: 0.8149860459379852
+  lightness: 0.09272078284993768
+  brandColors:
+    - '#020202'
+    - '#E8E7E6'
+    - '#9A9C97'
+    - '#464538'
+    - '#4481D2'
+  rhythmicContrast: 0.7745898386929184
+typography_spectrum: 0.2775689
 description: www.gottingerpal.com
+navigation:
+  - name: Weboldal
+    url: 'http://www.gottingerpal.com'
+    type: external
+layout_spectrum: 1
+name: Göttinger Pál m.v.
