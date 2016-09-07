@@ -1,3 +1,16 @@
+layout_spectrum: 0.7162666434887797
+typography_spectrum: 0.3144190516322851
+color:
+  saturation: 0.026802444830536842
+  brandStrength: 0.6202174664940685
+  lightness: 0.4712082748301327
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.23328685108572245
 title: Más olvasnivaló
 collections:
   - index:
@@ -11,22 +24,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.8288393507245928
-  brandStrength: 0.8149860459379852
-  lightness: 0.09272078284993768
-  brandColors:
-    - '#020202'
-    - '#E8E7E6'
-    - '#9A9C97'
-    - '#464538'
-    - '#4481D2'
-  rhythmicContrast: 0.7745898386929184
-typography_spectrum: 0.2775689
 description: www.gottingerpal.com
 navigation:
   - name: Weboldal
     url: 'http://www.gottingerpal.com'
     type: external
-layout_spectrum: 1
 name: Göttinger Pál m.v.
