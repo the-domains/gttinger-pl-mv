@@ -15,11 +15,11 @@ inLanguage: hu
 app_links: []
 isBasedOnUrl: 'http://pozsonyipiknik.hu/'
 title: Pozsonyi Piknik - Újlipótváros kulturális falunapja
-datePublished: '2016-09-03T11:09:51.875Z'
-dateModified: '2016-09-03T11:09:41.537Z'
+datePublished: '2016-09-03T11:10:01.222Z'
+dateModified: '2016-09-03T11:10:00.706Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-03-pozsonyi-piknik-ujlipotvaros-kulturalis-falunapja.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
