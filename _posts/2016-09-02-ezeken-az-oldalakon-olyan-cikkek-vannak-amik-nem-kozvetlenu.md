@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-09-03T10:04:56.171Z'
+datePublished: '2016-09-03T10:58:26.070Z'
 sourcePath: >-
   _posts/2016-09-02-ezeken-az-oldalakon-olyan-cikkek-vannak-amik-nem-kozvetlenu.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T10:04:55.621Z'
+dateModified: '2016-09-03T10:58:25.499Z'
 title: Más olvasnivaló
 publisher: {}
 description: >-
-  Ezeken az oldalakon olyan cikkek vannak, amik nem közvetlenül ide
-  kapcsolódnak, de közben mégis.
+  Ezeken az oldalakon olyan cikkek vannak, amelyek nem közvetlenül ide
+  kapcsolódnak, de közvetve: nagyonis. Színházi közélettel, munkatársakkal,
+  műhelyekkel kapcsolatos hírek.
 starred: true
 _type: Blurb
 
@@ -19,4 +20,4 @@ _type: Blurb
 
 # Más olvasnivaló
 
-Ezeken az oldalakon olyan cikkek vannak, amik nem közvetlenül ide kapcsolódnak, de közben mégis.
+Ezeken az oldalakon olyan cikkek vannak, amelyek nem közvetlenül ide kapcsolódnak, de közvetve: nagyonis. Színházi közélettel, munkatársakkal, műhelyekkel kapcsolatos hírek.
