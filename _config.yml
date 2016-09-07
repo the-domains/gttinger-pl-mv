@@ -1,4 +1,3 @@
-layout_spectrum: 0.7162666434887797
 typography_spectrum: 0.3144190516322851
 color:
   saturation: 0.026802444830536842
@@ -11,7 +10,15 @@ color:
     - '#3498DB'
     - '#2980B9'
   rhythmicContrast: 0.23328685108572245
-title: Más olvasnivaló
+layout_spectrum: 0.7162666434887797
+name: Göttinger Pál m.v.
+navigation:
+  - name: Weboldal
+    url: 'http://www.gottingerpal.com'
+    type: external
+  - name: facebook
+    url: 'https://www.facebook.com/gottingerpalmv/'
+    type: external
 collections:
   - index:
       path: /
@@ -24,9 +31,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Más olvasnivaló
 description: www.gottingerpal.com
-navigation:
-  - name: Weboldal
-    url: 'http://www.gottingerpal.com'
-    type: external
-name: Göttinger Pál m.v.
