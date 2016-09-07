@@ -28,9 +28,6 @@ navigation:
   - name: linkedin
     url: 'https://hu.linkedin.com/in/p%C3%A1l-g%C3%B6ttinger-0694a84'
     type: external
-  - name: flickr
-    url: flickr
-    type: external
 collections:
   - index:
       path: /
