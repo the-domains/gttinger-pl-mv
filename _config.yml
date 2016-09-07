@@ -1,16 +1,16 @@
-typography_spectrum: 0.5413647361565381
+layout_spectrum: 0.9827703388873488
+typography_spectrum: 0.34890221804380417
 color:
-  saturation: 0.8288393507245928
-  brandStrength: 0.8149860459379852
-  rhythmicContrast: 0.7745898386929184
+  saturation: 0.5905968032311648
+  brandStrength: 0.7969562849029899
+  rhythmicContrast: 0.398665152490139
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  lightness: 0.09272078284993768
-layout_spectrum: 0.9173693
+  lightness: 0.12781469873152673
 name: Göttinger Pál m.v.
 navigation:
   - name: web
