@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.9173693
 name: Göttinger Pál m.v.
 navigation:
-  - name: Weboldal
+  - name: web
     url: 'http://www.gottingerpal.com'
     type: external
   - name: facebook
