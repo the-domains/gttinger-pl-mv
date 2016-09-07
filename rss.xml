@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 03 Sep 2016 08:54:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gottinger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Esterházy Péter műve lett az Évad Legjobb Drámája]]></title>
-            <description><![CDATA[<article><h1>Esterházy Péter műve lett az Évad Legjobb Drámája</h1><p>2016. szeptember 1. csütörtök, 13:11 A Színházi Dramaturgok Céhe 1998 óta nyújtja át az Évad Legjobb Drámája díját. 2016-ban a tagság szavazatai alapján szoros versenyben Esterházy Péter utolsó drámája, a Mercedes Benz kapta az elismerést. Esterházy Pétert most harmadszor díjazta a Dramaturg Céh, 2007-ben a Rubens és a nemeuklideszi asszonyok, 2011-ben az Én vagyok a Te című darabja lett Az Évad Legjobb Drámája.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4ad7320234795e9fa38a3e092e748842/noop.jpg?input=http%3A%2F%2Fszinhaz.hu%2Fimages%2Faktualis%2F2016%2F09_szept%2F09_02%2Festerhazy_peter.jpg"></article>]]></description>
-            <link>http://szinhaz.hu/szinhazi-hirek/66312-esterhazy-peter-muve-lett-az-evad-legjobb-dramaja</link>
-            <guid isPermaLink="false">bc4168ae-2565-4304-9626-76904f5d74ef</guid>
-            <pubDate>Sat, 03 Sep 2016 08:54:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Vitasorozatot kezdeményezünk" - Pályázat és felhívás Hargitai Ivánéktól]]></title>
             <description><![CDATA[<article><h1>"Vitasorozatot kezdeményezünk" - Pályázat és felhívás Hargitai Ivánéktól</h1><p>2016. szeptember 2. péntek, 10:00 Közzétette az Újszínházra beadott pályázatát Hargitai Iván. A rendező felhívással is fordul a pályázók és a szakma felé. Az eddigi vezetőknek szavazott bizalmat szerdán a Fővárosi Közgyűlés három budapesti színház esetében, az Újszínházat Dörner György irányíthatja tovább. Az igazgatói posztra tizenketten pályáztak.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/722b5215cfa46984ba85f0ea52788060/noop.jpg?input=http%3A%2F%2Fszinhaz.hu%2Fimages%2Faktualis%2F2016%2F09_szept%2F09_02%2Faz_isteni_sarah_olvasoproba.jpg"></article>]]></description>
             <link>http://szinhaz.hu/szinhazi-hirek/66317-vitasorozatot-kezdemenyezunk-palyazat-es-felhivas-hargitai-ivanektol</link>
@@ -75,6 +68,13 @@
             <link>http://hvg.hu/kultura/20160831_Tilla_filmjet_nevezi_Magyarorszag_az_Oscardijra#rss</link>
             <guid isPermaLink="false">2f327360-9948-4582-acc9-42a316150dbf</guid>
             <pubDate>Fri, 02 Sep 2016 10:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esterházy Péter Mercedes Benz című műve lett az év drámája]]></title>
+            <description><![CDATA[<article><h1>Esterházy Péter Mercedes Benz című műve lett az év drámája</h1><p>Esterházy Péter Mercedes Benz című műve nyerte el az évad legjobb magyar drámájának járó díjat, amelyet a Színházi Dramaturgok Céhe ítél oda évente. Esterházy Pétert most harmadszor díjazták: 2007-ben a Rubens és a nemeuklideszi asszonyok, 2011-ben az Én vagyok a Te című darabja lett az évad legjobb magyar drámája.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/abccc60b827fc5ed9e7b1a8917d16aa2/noop.jpg?input=http%3A%2F%2Fkep.cdn.index.hu%2F1%2F0%2F1261%2F12615%2F126150%2F12615051_497919_f17f11130fb7959660ba1fff4f45ae1d_wm.jpg"></article>]]></description>
+            <link>http://index.hu/kultur/2016/09/02/esterhazy_peter_muve_lett_az_ev_dramaja/</link>
+            <guid isPermaLink="false">94120e59-9efa-416c-9cd1-03bac0a9575d</guid>
+            <pubDate>Fri, 02 Sep 2016 10:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
