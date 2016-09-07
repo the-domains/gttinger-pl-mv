@@ -22,6 +22,9 @@ navigation:
   - name: twitter
     url: 'https://twitter.com/deltenger'
     type: external
+  - name: google+
+    url: 'https://plus.google.com/+G%C3%B6ttingerP%C3%A1lmv'
+    type: external
 collections:
   - index:
       path: /
