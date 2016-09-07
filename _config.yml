@@ -19,6 +19,9 @@ navigation:
   - name: facebook
     url: 'https://www.facebook.com/gottingerpalmv/'
     type: external
+  - name: twitter
+    url: 'https://twitter.com/deltenger'
+    type: external
 collections:
   - index:
       path: /
