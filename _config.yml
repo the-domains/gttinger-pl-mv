@@ -25,6 +25,9 @@ navigation:
   - name: google+
     url: 'https://plus.google.com/+G%C3%B6ttingerP%C3%A1lmv'
     type: external
+  - name: linkedin
+    url: 'https://hu.linkedin.com/in/p%C3%A1l-g%C3%B6ttinger-0694a84'
+    type: external
 collections:
   - index:
       path: /
